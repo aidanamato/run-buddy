@@ -12,3 +12,5 @@ https://aidanamato.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Aidan Amato
+
+# Run Buddy Inc.
